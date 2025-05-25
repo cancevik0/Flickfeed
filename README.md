@@ -1,6 +1,6 @@
 # FlickFeed - Film Tanıtım Platformu
 
-![](https://i.hizliresim.com/eiza7ta.png)
+![](https://ibb.co/8LqPcsW4)
 
 [Demo](https://cancevik0.github.io/Flickfeed/)
 
