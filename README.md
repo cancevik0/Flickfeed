@@ -1,6 +1,6 @@
 # FlickFeed - Film Tanıtım Platformu
 
-![](https://ibb.co/8LqPcsW4)
+![](https://i.ibb.co/8LqPcsW4/ire.png)
 
 [Demo](https://cancevik0.github.io/Flickfeed/)
 
