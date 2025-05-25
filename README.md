@@ -1,5 +1,7 @@
 # FlickFeed - Film Tanıtım Platformu
 
+![](https://i.hizliresim.com/eiza7ta.png)
+
 [Demo](https://cancevik0.github.io/Flickfeed/)
 
 FlickFeed, en yeni filmler hakkında detaylı bilgilere ulaşabileceğin, fragmanları izleyebileceğin ve yorumlar ekleyebileceğin bir platformdur.
