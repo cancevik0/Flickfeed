@@ -1,6 +1,6 @@
 # FlickFeed - Film Tanıtım Platformu
 
-![Demo]([https://i.ibb.co/q3MMqg71/bank.jpg](https://cancevik0.github.io/Flickfeed/))
+[Demo](https://cancevik0.github.io/Flickfeed/)
 
 FlickFeed, en yeni filmler hakkında detaylı bilgilere ulaşabileceğin, fragmanları izleyebileceğin ve yorumlar ekleyebileceğin bir platformdur.
 
