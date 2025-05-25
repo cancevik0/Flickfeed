@@ -11,8 +11,8 @@ FlickFeed, en yeni filmler hakkında detaylı bilgilere ulaşabileceğin, fragma
 - Kullanıcı yorumları ve puanlama sistemi  
 
 ## Kurulum
-
-Projeyi yerel olarak çalıştırmak için şu adımları takip edebilirsin:
+- Projeyi yerel olarak çalıştırmak için şu adımları takip edebilirsin:
+  
 1 :
 
 ```bash
